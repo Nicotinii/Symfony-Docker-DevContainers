@@ -80,7 +80,17 @@ Starts the Symfony development server using the symfony command.
 Starts both the Symfony development server and the webpack Encore dev server concurrently using the symfony and yarn commands respectively.
 ## MariaDB & PhpMyAdmin for the database
 
-Small tuto soon
+If you want access to phpmyadmin go to http://localhost:8090/ 
+for connection by default is
+Server : db
+User : mariadb
+Password : mariadb
+
+If you prefer to use the command prompt with MariaDB, it would be:
+```bash
+mysql -h 127.0.0.1 -P 3306 --protocol=tcp -u root -p
+```
+Password: mariadb
 ## Authors
 
 - [@Nicotinii](https://github.com/Nicotinii)
