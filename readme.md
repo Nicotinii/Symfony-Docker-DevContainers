@@ -26,6 +26,7 @@ For [Macos](https://docs.docker.com/desktop/install/mac-install/):  Please refer
 ### Docker installed
 
 Clone the repository of your choice and using the following command:
+exemple select branch Symfony-6.3 or Symfony-6.3-OD (OD is Only Docker is a repo without symfony generate)
 
 ```bash
 git clone "url"
