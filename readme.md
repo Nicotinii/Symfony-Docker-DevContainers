@@ -2,9 +2,9 @@
 # Symfony Docker
 
 
-[![PHP](https://img.shields.io/badge/PHP-8.2.7-blue)](https://www.php.net/)
+[![PHP](https://img.shields.io/badge/PHP-7.4-blue)](https://www.php.net/)
 [![NODE](https://img.shields.io/badge/Node-18.X-green)](https://github.com/nodesource/distributions)
-[![SYMFONY](https://img.shields.io/badge/Symfony-6.3-FF0000)](https://github.com/nodesource/distributions)
+[![SYMFONY](https://img.shields.io/badge/Symfony-5.3-FF0000)](https://github.com/nodesource/distributions)
 
 My project involves using Symfony and Docker with Dev Containers. 
 It helps me create a customized development environment for my Symfony application.   
